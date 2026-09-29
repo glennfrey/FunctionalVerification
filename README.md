@@ -1,4 +1,4 @@
-# RTL Coding and FunctionalVerification
+# RTL Coding and Functional Verification
 Functional Verification
 
 ![](verificaiton/ahbcode.png)
